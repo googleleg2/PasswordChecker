@@ -1,5 +1,5 @@
 # PasswordChecker
-Program that validates User password.
+Program that validates User password Using Regex
 ***
 Developed using
 ---
